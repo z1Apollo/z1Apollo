@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Pedro (Apollo) Ederson
+# 👨‍💻 Pedro (Apollo) Ederson
 
 **`Desenvolvedor FullStack`**
 
