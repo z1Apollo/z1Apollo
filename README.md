@@ -89,8 +89,8 @@ Tenho 19 anos e sou de Fortaleza, CE. Atualmente, estou cursando Engenharia de S
 />
 <img 
     align="left" 
-    alt="Python" 
-    title="Python"
+    alt="NodeJS" 
+    title="NodeJS"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" 
