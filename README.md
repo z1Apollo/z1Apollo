@@ -127,14 +127,6 @@ Tenho 19 anos e sou de Fortaleza, CE. Atualmente, estou cursando Engenharia de S
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" 
 />
-<img 
-    align="left" 
-    alt="Neon Tech" 
-    title="Neon Tech"
-    width="50px" 
-    style="padding-right: 10px;" 
-    src="https://m12.vc/wp-content/uploads/2024/08/Neon-Logo-500.png" 
-/>
 
 <br/>
 <br/>
