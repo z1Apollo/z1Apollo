@@ -138,7 +138,7 @@ Tenho 19 anos e sou de Fortaleza, CE. Atualmente, estou cursando Engenharia de S
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=z1Apollo&layout=compact&theme=tokyonight" 
+      src="https://github-readme-stats-z1apollos-projects.vercel.app/api/top-langs/?username=z1Apollo&layout=compact&theme=tokyonight" 
   />
 
 </p>
